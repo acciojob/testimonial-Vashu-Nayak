@@ -24,3 +24,7 @@ h2{
 p{
 	font-size:12px;
 }
+.author{
+	font-style:italic;
+	text-align:right;
+}
